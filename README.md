@@ -3,7 +3,7 @@ En este repositorio veremos como aplicar el método de los cuadrados míminos pa
 
 Una versión ejecutable del código se encuentra disponible en el siguiente vinculo.
 
-https://drive.google.com/file/d/1S9F1MnmjTl7YdUB53JxkAKHjHr6Ut2tC/view?usp=sharing
+https://colab.research.google.com/drive/1moLGiVGPz0tIwcR7SVHdnRJZ_8gJ5Lsl?usp=sharing
 
 Se tiene que abrir en Google colab
 
